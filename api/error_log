@@ -1,0 +1,5 @@
+[09-Dec-2020 14:31:49 America/New_York] PHP Notice:  Undefined index: categoryId in /home/fgccjxxa/public_html/PROJECTS/SOLVD/api/index.php on line 8
+[09-Dec-2020 14:33:33 America/New_York] PHP Notice:  Undefined index: category_id in /home/fgccjxxa/public_html/PROJECTS/SOLVD/api/index.php on line 8
+[09-Dec-2020 14:33:34 America/New_York] PHP Notice:  Undefined index: category_id in /home/fgccjxxa/public_html/PROJECTS/SOLVD/api/index.php on line 8
+[10-Dec-2020 01:20:56 America/New_York] PHP Notice:  Undefined index: category_id in /home/fgccjxxa/public_html/PROJECTS/SOLVD/api/index.php on line 8
+[11-Dec-2020 03:00:25 America/New_York] PHP Notice:  Undefined index: category_id in /home/fgccjxxa/public_html/PROJECTS/SOLVD/api/index.php on line 8
